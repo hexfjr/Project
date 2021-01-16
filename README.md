@@ -14,6 +14,8 @@ Linux:{
 ```
 > Git clone https://github.com/SECURITY87/Project/
 > cd Project
+~ Run:
+> python/python3 project_name.py
 
 ```
 #Social Media
