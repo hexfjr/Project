@@ -1,0 +1,4 @@
+pyjokes
+ssl
+smtplib
+secure-smtplib
