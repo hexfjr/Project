@@ -27,4 +27,4 @@ with smtplib.SMTP_SSL("smtp.gmail.com",port,context=context) as servers:
         server.login(email,password)
         #This is the login credentials being checked.
         server.sendmail(email, recipient,message)
-        #The server is initialized to send an email with the three parameters 
+        #The server is initialized to send an email with the three parameters  
