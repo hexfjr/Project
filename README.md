@@ -20,7 +20,7 @@ Linux:{
 ```
 #Social Media
 ---
-* [INSTAGRAM](https://instagram.com/Haxnoloy_ID)
+* [INSTAGRAM](https://instagram.com/mfn.fjr.15)
 * [TWITTER](https://twitter.com/Haxnoloy_ID)
 * [DONASI](https://saweria.co/security87)
 ---
