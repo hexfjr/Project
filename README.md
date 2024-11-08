@@ -12,7 +12,7 @@ Linux:{
 ```
 #installation:
 ```
-> Git clone https://github.com/SECURITY87/Project/
+> Git clone https://github.com/hexfjr/Project/
 > cd Project
 ~ Run:
 > python/python3 project_name.py
@@ -21,6 +21,5 @@ Linux:{
 #Social Media
 ---
 * [INSTAGRAM](https://instagram.com/mfn.fjr.15)
-* [TWITTER](https://twitter.com/Haxnoloy_ID)
-* [DONASI](https://saweria.co/security87)
+* [DONASI](https://saweria.co/)
 ---
